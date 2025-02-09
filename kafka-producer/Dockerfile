@@ -1,4 +1,4 @@
-FROM python:3.8-slim
+From python:3.8-slim
 
 COPY requirements.txt .
 
